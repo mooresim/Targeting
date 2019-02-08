@@ -1,0 +1,35 @@
+body{
+    background-color: cornflowerblue
+}
+.superman{
+        font-size: 56px;
+        color: aquamarine;
+        text-shadow: 2px 5px 4px black;
+
+}
+
+#spiderman{
+        font-size: 80px;
+        color: darkmagenta;
+        text-decoration: underline wavy;
+        text-shadow: 7px 6px 5px yellow;
+}
+
+.greenlantern{
+        font-size: 30px;
+        background-color: indigo;
+        color: chartreuse;
+        word-spacing: 40px;
+        text-shadow: 3px 4px 5px white;
+}
+
+#captainamerica{
+        font-size: 120px;
+        background-color: deepskyblue;
+        text-decoration: underline dotted yellowgreen;
+        text-shadow: 5px 6px 7px coral;
+}
+
+
+
+
